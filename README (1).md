@@ -9,11 +9,10 @@ Which areas of Central Park have the friendliest squirrels? This project uses Py
 | File | What it is |
 |---|---|
 | `Project_1.2.ipynb` | The full analysis: loading and inspecting the data, behavior counts, friendly and scared ratios by hectare, bar charts, and an interactive map |
-| `squirrel_map.html` | The interactive map of friendliness by hectare ([open the map](https://USERNAME.github.io/REPO-NAME/squirrel_map.html)) |
+| `squirrel_map.html` | The interactive map of friendliness by hectare ([open the map](https://kerrygordon777.github.io/central-park-squirrels-python/squirrel_map.html)) |
 | `2018_squirrel_Data.csv` | The raw census data from NYC Open Data |
 
-To see the notebook with the interactive map working, [view it on nbviewer](https://nbviewer.org/github/USERNAME/REPO-NAME/blob/main/Project_1.2.ipynb).
-
+To see the notebook with the interactive map working, [view it on nbviewer](https://nbviewer.org/github/kerrygordon777/central-park-squirrels-python/blob/main/Project_1.2.ipynb).
 ## Tools
 
 Python · pandas · matplotlib · folium
